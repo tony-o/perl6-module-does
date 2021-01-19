@@ -1,7 +1,5 @@
 #Module::Does
 
-[![Build Status](https://travis-ci.org/tony-o/perl6-module-does.svg)](https://travis-ci.org/tony-o/perl6-module-does)
-
 This module is built for module authors that want to allow the module's audience to 'hot swap' modules with minimal code on their end.  This module gathers specified types from the `GLOBAL` scope upon object creation and then makes them available to the module.
 
 #Usage
